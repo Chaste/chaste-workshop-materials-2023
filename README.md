@@ -18,6 +18,8 @@ See how Chaste works in C++ and how you can extend existing functionality.
 ### [Immersed Boundary Method for Cell Shape Representation (14:00 - 16:30)]()
 Use the immersed boundary method to model the shapes of cells.
 
+### [Overview of the new Chaste infrastructure, and how to access help and support (16:30-17:00)](tuesday/ChasteCellWorkshop_Infrastructure.pdf)
+
 ## [Wednesday](https://github.com/Chaste/chaste-workshop-materials-2023/wednesday)
 
 ### [Coupling Cells/Tissue to the Microenvironment - ChemChaste (10:00 - 12:30)]()
