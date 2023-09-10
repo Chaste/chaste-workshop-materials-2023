@@ -1,10 +1,10 @@
 ## [Monday](https://github.com/Chaste/chaste-workshop-materials-2023/monday)
 
-### Introduction and welcome
+### Introduction and welcome (11:00 - 11:15)
 
 Link to Google slides: https://docs.google.com/presentation/d/1hhkh_4wE8jRM7naX1wRbjexWxIYXppr1rzLa_v3vgvk/edit?usp=sharing
 
-### Introduction to cell-based modelling with PyChaste
+### Introduction to cell-based modelling with PyChaste (13:30 - 17:30)
 
 Learn to model cell-based models using Chaste in Python. 
 This session will use Jupyter notebooks running in the cloud, but you can also set up the materials locally if you wish to. 
