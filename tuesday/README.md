@@ -1,6 +1,6 @@
 ## [Tuesday](https://github.com/Chaste/chaste-workshop-materials-2023/tuesday)
 
-### [Getting Up and Running with Chaste in VSCode]()
+### [Getting Up and Running with Chaste in VSCode](https://docs.google.com/presentation/d/1UqpN_9Jwfl-c1I9UpDGaIgm2GVSWffwk9rGkFhaq5_U/edit?usp=sharing)
 Learn how to install and configure Chaste on your own machine using docker and VSCode.
 
 ### [Chaste in C++ - Extending Functionality]()
