@@ -28,7 +28,10 @@ Use the immersed boundary method to model the shapes of cells.
 ### [Practical: Including cell-cell feedbacks (10:30 - 12:30)]()
 Explore how to include cell-cell feedbacks in Chaste.
 
-### [Practical: Including cell-environment feedbacks (14:00 - 16:00]()
+### [Practical: Including cell-environment feedbacks (14:00 - 16:00)]()
 Explore how to include cell-environment feedbacks in Chaste.
+
+### [Lightning wrapups (16:00-17:00)]()
+
 
 
