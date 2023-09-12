@@ -1,6 +1,8 @@
 # Chaste Workshop 2023
 A directory of workshop materials for the September 2023 Chaste workshop in Oxford. You can find the workshop timetable [here](https://chaste.github.io/workshops/2023-09-11/).
 
+The main **chaste repository** can be found [here](https://github.com/Chaste/Chaste)
+
 ## [Monday](https://github.com/Chaste/chaste-workshop-materials-2023/monday)
 
 ### [Introduction to Cell-Based Modelling with PyChaste (13:30 - 16:30)]()
