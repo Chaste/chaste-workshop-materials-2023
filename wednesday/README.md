@@ -1,9 +1,9 @@
 ## [Wednesday](https://github.com/Chaste/chaste-workshop-materials-2023/wednesday)
 
-### [Coupling Cells/Tissue to the Microenvironment - ChemChaste]()
-Explore connecting cells to the microenvironment using ChemChaste.
+### [Including cell-environment feedbacks]()
+Explore how to include cell-environment feedbacks in Chaste.
 
-### [Modelling Cell/Environment Feedback]()
-Learn how to obtain and use feedback from the environment.
+### [Including cell-cell feedbacks]()
+Explore how to include cell-cell feedbacks in Chaste.
 
-Link to the github repo for the Delta-notch and polarity user project: https://github.com/BJackal/ChasteWorkshopSRN/tree/master
+Link to the github repo for the user project for these practicals: https://github.com/BJackal/ChasteWorkshopSRN/tree/master
