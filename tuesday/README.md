@@ -6,10 +6,12 @@ Learn how to install and configure Chaste on your own machine using docker and V
 ### [Chaste in C++ - Extending Functionality](https://github.com/Chaste/IntroToChasteCpp)
 See how Chaste works in C++ and how you can extend existing functionality.
 
-### [Immersed Boundary Method for Cell Shape Representation]()
+### [Immersed Boundary Method for Cell Shape Representation](https://github.com/Chaste/ImmersedBoundaryWorkshop)
 Use the immersed boundary method to model the shapes of cells.
 
 [Slides](ChasteCellWorkshop_ImmersedBoundary.pdf)
+
+[Code & Instructions](https://github.com/Chaste/ImmersedBoundaryWorkshop)
 
 ### [Overview of the new Chaste infrastructure, and how to access help and support](ChasteCellWorkshop_Infrastructure.pdf)
 How to get help.  How to help out.
