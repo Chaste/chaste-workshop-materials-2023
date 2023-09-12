@@ -8,7 +8,6 @@ The main **chaste repository** can be found [here](https://github.com/Chaste/Cha
 ### [Introduction to Cell-Based Modelling with PyChaste (13:30 - 16:30)]()
 Learn to model cell-based models using Chaste in Python. This session will use Jupyter notebooks running in the cloud, but you can also set up the materials locally if you wish to. 
 
-
 ## [Tuesday](https://github.com/Chaste/chaste-workshop-materials-2023/tuesday)
 
 ### [Getting Up and Running with Chaste in VSCode (10:00 - 11:00)](https://docs.google.com/presentation/d/1UqpN_9Jwfl-c1I9UpDGaIgm2GVSWffwk9rGkFhaq5_U/edit?usp=sharing)
@@ -26,10 +25,10 @@ Use the immersed boundary method to model the shapes of cells.
 
 ### [Lecture: Including cell-environment and cell-cell feedbacks in Chaste (10:00 - 10:30)]()
 
-### [Practical: Including cell-environment feedbacks (10:30 - 12:30)]()
-Explore how to include cell-environment feedbacks in Chaste.
-
-### [Practical: Including cell-cell feedbacks (14:00 - 16:00]()
+### [Practical: Including cell-cell feedbacks (10:30 - 12:30)]()
 Explore how to include cell-cell feedbacks in Chaste.
+
+### [Practical: Including cell-environment feedbacks (14:00 - 16:00]()
+Explore how to include cell-environment feedbacks in Chaste.
 
 
