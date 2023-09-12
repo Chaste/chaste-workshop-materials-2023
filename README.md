@@ -24,8 +24,12 @@ Use the immersed boundary method to model the shapes of cells.
 
 ## [Wednesday](https://github.com/Chaste/chaste-workshop-materials-2023/wednesday)
 
-### [Coupling Cells/Tissue to the Microenvironment - ChemChaste (10:00 - 12:30)]()
-Explore connecting cells to the microenvironment using ChemChaste.
+### [Lecture: Including cell-environment and cell-cell feedbacks in Chaste (10:00 - 10:30)]()
 
-### [Modelling Cell/Environment Feedback (14:00 - 16:00)]()
-Learn how to obtain and use feedback from the environment.
+### [Practical: Including cell-environment feedbacks (10:30 - 12:30)]()
+Explore how to include cell-environment feedbacks in Chaste.
+
+### [Practical: Including cell-cell feedbacks (14:00 - 16:00]()
+Explore how to include cell-cell feedbacks in Chaste.
+
+
