@@ -11,6 +11,6 @@ Explore how to include cell-environment feedbacks in Chaste.
 
 Link to the github repo for the user project for these two practicals: https://github.com/BJackal/ChasteWorkshopSRN/tree/master
 
-### [Lightning wrap-ups (16:00-17:00)])_
+### [Lightning wrap-ups (16:00-17:00)]()
 
 Link to Google slides: [https://docs.google.com/presentation/d/1d1PSWZdMipPbwExcDSQ5HkLBhc9QM8ClJPjgiYGf3l4/edit?usp=sharing](https://docs.google.com/presentation/d/1d1PSWZdMipPbwExcDSQ5HkLBhc9QM8ClJPjgiYGf3l4/edit?usp=sharing)
